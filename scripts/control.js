@@ -1,3 +1,5 @@
+import{allowances} from "./logic.js";
+
 window.addEventListener('load',eventbinder);
 
 function eventbinder(){
